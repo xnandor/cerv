@@ -18,6 +18,8 @@
 ## Security
 * [Khan Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
   ![Modular](media/images/modular.png)
+* [Public Key Cryptography](https://medium.com/@vrypan/explaining-public-key-cryptography-to-non-geeks-f0994b3c2d5)
+  ![Public Key](/media/images/publickey.png)
 ## Testing
 * [Integration Over Unit](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
   ![Effective Testing](/media/images/integration.png)
