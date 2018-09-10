@@ -1,7 +1,18 @@
 # CERG - Computer Engineering Reference Guide
 
-## Relative Computer Timing
+## Computer Timing
 
-[https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html](Berkeley Latency Numbers)
+### Latency
 
-![2018 Latency](/media/images/latency.png "Latency")
+[Berkeley Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
+![Latency](/media/images/latency.png)
+
+## Graphics
+
+### Bezier
+
+[Pomax Bezier](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
+
+![Bezier](/media/images/bezier.png)
+
