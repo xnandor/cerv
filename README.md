@@ -4,6 +4,8 @@
   ![Latency](/media/images/latency.png)
 * [High Scalability Calculations](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 ## Math
+* [Vectors - Harold Serrano](https://www.haroldserrano.com/blog/vectors-in-computer-graphics)
+  ![Vectors](/media/images/vectors.png)
 * [Pomax Bezier](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
   ![Bezier](/media/images/bezier.png)
 * [Forier Transform Better Explained](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
