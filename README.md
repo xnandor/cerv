@@ -8,3 +8,10 @@
 ### Bezier
 * [Pomax Bezier](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
   ![Bezier](/media/images/bezier.png)
+## Security
+### Cryptography
+* [Khan Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
+## Testing
+### Integration
+* [Integration Over Unit](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
+  ![Effective Testing](/media/images/integration.png)
