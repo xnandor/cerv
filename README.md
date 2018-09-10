@@ -1,4 +1,4 @@
-# CERG - Computer Engineering Reference Guide
+# CERV - Computer Engineering Reference Visualizations
 ## Performance
 * [Berkeley Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
   ![Latency](/media/images/latency.png)
@@ -8,7 +8,7 @@
   ![Bezier](/media/images/bezier.png)
 * [Forier Transform Better Explained](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
   ![Forier Equation](/media/images/fourier.png)
-### Images
+## Images
 * [Image Kernels](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
   ![Image Blue](/media/images/blur.png)
 ## Security
@@ -22,5 +22,6 @@
   ![Joins](/media/images/joins.png)
 * [Better Joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
   ![Better Joings](/media/images/better-joins.png)
-  
+* [Huffman Coding Wiki](https://en.wikipedia.org/wiki/Huffman_coding)
+  ![Huffman Tree](/media/images/huffman.png)
   
