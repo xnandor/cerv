@@ -18,5 +18,7 @@
 ## Data
 * [SQL Joins](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
   ![Joins](/media/images/joins.png)
+* [Better Joins](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+  ![Better Joings](/media/images/better-joins.png)
   
   
