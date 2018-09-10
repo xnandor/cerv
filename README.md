@@ -8,6 +8,8 @@
   ![Bezier](/media/images/bezier.png)
 * [Forier Transform Better Explained](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
   ![Forier Equation](/media/images/fourier.png)
+* [Understanding Quaternions - Mark Hughes](https://www.allaboutcircuits.com/technical-articles/dont-get-lost-in-deep-space-understanding-quaternions/)
+  ![Quaternion](/media/images/quaternion.png)
 ## Images
 * [Image Kernels](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
   ![Image Blue](/media/images/blur.png)
