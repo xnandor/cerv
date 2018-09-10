@@ -8,6 +8,9 @@
 ### Bezier
 * [Pomax Bezier](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
   ![Bezier](/media/images/bezier.png)
+### Images
+* [Image Kernels](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
+  ![Image Blue](/media/images/blur.png)
 ## Security
 ### Cryptography
 * [Khan Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)
