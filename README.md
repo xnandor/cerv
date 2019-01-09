@@ -24,6 +24,10 @@
 * [Understanding Quaternions - Mark Hughes](https://www.allaboutcircuits.com/technical-articles/dont-get-lost-in-deep-space-understanding-quaternions/)
 
   ![Quaternion](/media/images/quaternion.png)
+---
+* [The Book of Shaders - Patricio Gonzalez Vivo and Jen Lowe](https://thebookofshaders.com/)
+
+  ![Noise](/media/images/noise.png)
   
 ## Images
 
