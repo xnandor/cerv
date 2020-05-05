@@ -1,5 +1,9 @@
 # CERV - Computer Engineering Reference Visualizations
 
+## Feelings
+
+* Feelings can be good when coding.
+
 ## Performance
 
 * [Berkeley Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
