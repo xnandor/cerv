@@ -1,9 +1,5 @@
 # CERV - Computer Engineering Reference Visualizations
 
-## About
-
-This project provides helpful links for understanding interesting issues in computer science.
-
 ## Performance
 
 * [Berkeley Latency Numbers](https://people.eecs.berkeley.edu/~rcs/research/interactive_latency.html)
